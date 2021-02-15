@@ -16,7 +16,6 @@
 
 This Starter Kit Template can be the foundation of a TypeScript Node.js Microservice or Backend for Frontend.
 
-
 ## Features
 
 The starter kit provides the following features:
