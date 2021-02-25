@@ -1,4 +1,0 @@
-apiVersion: v2
-version: 0.1.0
-name: bi-stockbffnode
-description: Chart to configure ArgoCD with the bi-stockbffnode project and its applications
